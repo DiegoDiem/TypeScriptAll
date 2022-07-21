@@ -6,6 +6,7 @@
     const villanos = ['Omega Rojo', 'Dormammu','Duende Verde']
 
     villanos.forEach(villano => console.log(villano.toUpperCase()))
+    numbers.forEach(villano => console.log(villano))
 
     // numbers.push('11');
 
